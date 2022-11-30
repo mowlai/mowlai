@@ -40,8 +40,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: ML Engineer
+          company: DIDO srl
           company_url: 'https://www.dido-lab.com/'
           company_logo: Dido-Logo
           location: Milan, Italy
