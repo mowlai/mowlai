@@ -33,7 +33,7 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: 	06 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -45,7 +45,7 @@ sections:
           company_url: 'https://www.dido-lab.com/'
           company_logo: Dido-Logo
           location: Milan, Italy
-          date_start: '2022-03-01'
+          date_start: '06 2006'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -58,8 +58,8 @@ sections:
           company_url: ''
           company_logo: unirm1
           location: Rome, Italy
-          date_start: '2022-02-01'
-          date_end: '2022-12-31'
+          date_start: '06 2006'
+          date_end: '06 2006'
           description: "Thesis title:" Multi-Style pose forecasting in industrial human-robot collaboration 
     design:
       columns: '2'
