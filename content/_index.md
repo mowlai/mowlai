@@ -58,7 +58,7 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Rome, Italy
-          date_start: ''
+          date_start: '2022-03-01'
           date_end: ''
           description: 'Thesis title:' Multi-Style pose forecasting in industrial human-robot collaboration 
     design:
