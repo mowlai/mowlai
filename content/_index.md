@@ -60,7 +60,7 @@ sections:
           location: Rome, Italy
           date_start: '2022-03-01'
           date_end: ''
-          description: 'Thesis title:' Multi-Style pose forecasting in industrial human-robot collaboration 
+          description: \'Thesis title:\' Multi-Style pose forecasting in industrial human-robot collaboration 
     design:
       columns: '2'
   - block: accomplishments
