@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Master of Data Science at Sapienza University of Rome and Computer Vision Researcher at PIN(Perception and Intelligence) Lab. Highly interested in Human Activity Analysis, Vision and language and Medical Image processing. I am a fulltime Machine Learning Engineer at DIDO srl in Milan, which develop reinforcement learning algorithms to optimize energy systems. Proficient in Python programming, MLOps and deep learning frameworks..
+MSc in Data Science at Sapienza University of Rome and Computer Vision Researcher at PIN(Perception and Intelligence) Lab. Highly interested in Human Activity Analysis, Vision and language and Medical Image processing. Fulltime Machine Learning Engineer at DIDO srl in Milan, which develop reinforcement learning algorithms to optimize energy systems. Proficient in Python programming, MLOps and deep learning frameworks.
 {style="text-align: justify;"}
