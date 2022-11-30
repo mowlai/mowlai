@@ -56,7 +56,7 @@ sections:
         - title: Master Thesis
           company: PIN lab, Sapienza University of Rome
           company_url: ''
-          company_logo: unirm1
+          company_logo: org-x
           location: Rome, Italy
           date_start: ''
           date_end: ''
