@@ -58,7 +58,7 @@ sections:
           company_url: ''
           company_logo: SP
           location: Rome, Italy
-          date_start: '2022-03-01'
+          date_start: '2022-05-01'
           date_end: ''
           description: Multi-Style pose forecasting in industrial human-robot collaboration 
     design:
