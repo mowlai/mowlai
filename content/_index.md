@@ -42,25 +42,25 @@ sections:
       items:
         - title: CEO
           company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_url: 'https://www.dido-lab.com/'
+          company_logo: Dido-Logo
+          location: Milan, Italy
+          date_start: '2022-03-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
+              * Developing ML, RL algorithms
+              * Monitoring
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Master Thesis
+          company: PIN lab, Sapienza University of Rome
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: unirm1
+          location: Rome, Italy
+          date_start: '2022-01-01'
+          date_end: '2022-12-31'
+          description: "Thesis title:" Multi-Style pose forecasting in industrial human-robot collaboration 
     design:
       columns: '2'
   - block: accomplishments
