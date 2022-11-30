@@ -58,8 +58,8 @@ sections:
           company_url: ''
           company_logo: unirm1
           location: Rome, Italy
-          date_start: '2022-02-01'
-          date_end: '2022-31-12'
+          date_start: ''
+          date_end: ''
           description: "Thesis title:" Multi-Style pose forecasting in industrial human-robot collaboration 
     design:
       columns: '2'
