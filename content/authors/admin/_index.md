@@ -38,7 +38,7 @@ education:
       year: 2023
     - course: BSc in Industrial Engineering
       institution: University of Qom
-      year: 2009
+      year: 2019
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2008
@@ -71,10 +71,10 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Mowlai.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mowlai.mo@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -82,4 +82,6 @@ highlight_name: true
 
 MSc in Data Science at Sapienza University of Rome and Computer Vision Researcher at PIN(Perception and Intelligence) Lab. Highly interested in Human Activity Analysis, Vision and language and Medical Image processing. 
 </br> Full-time Machine Learning Engineer at DIDO srl in Milan, which develop reinforcement learning algorithms to optimize energy systems. Proficient in Python programming, MLOps and deep learning frameworks.
+</br>
+My research interests include Computer Vision, Human Pose Forecasting and Vision and Language.
 {style="text-align: justify;"}
